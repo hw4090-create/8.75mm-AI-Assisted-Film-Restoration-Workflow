@@ -15,26 +15,25 @@ For rare-gauge film, this opens a new practical direction. Formats such as 8.75m
 This distinction is important for archival ethics. AI-assisted reconstruction is not neutral restoration. It is an interpretive layer added on top of the scan. The model can make damaged images more visible, but it can also introduce false details. Therefore, the method should be documented as a controlled workflow: the original scan is preserved, the AI-processed frames are labeled as derivatives, and the prompts are recorded as part of the technical and ethical metadata.
 
 In this sense, GPT-Image-2 does not simply provide a faster way to colorize film. It allows a new kind of restoration experiment: rule-based visual reconstruction. The model can help test how much missing or damaged visual information can be made legible, but only when the project defines clear limits. For this repository, those limits are part of the method itself.
+![Figure 1. Original still image, black and white frame from the 8.75mm source scan.](static/Images/1.jpg)
 
-![1](/static/Images/1.jpg)
+**Figure 1.** Original still image, black and white frame from the 8.75mm source scan.
 
-Figure 1: Original still Image B&W
+![Figure 2. AI-assisted black-and-white restoration using GPT-Image-2.](static/Images/2.jpg)
 
-![2](/static/Images/2.jpg)
+**Figure 2.** AI-assisted black-and-white restoration using GPT-Image-2.
 
-Figure 2: After using the AI model (Image 2.0) B&W
+![Figure 3. Original still image before colorization.](static/Images/3.jpg)
 
-![3](/static/Images/3.jpg)
+**Figure 3.** Original still image before colorization.
 
-Figure 3: Original Still Image B&W
+![Figure 4. AI-assisted black-and-white restoration using GPT-Image-2.](static/Images/4.jpg)
 
-![4](/static/Images/4.jpg)
+**Figure 4.** AI-assisted black-and-white restoration using GPT-Image-2.
 
-Figure 4: After using the AI model (Image 2.0) B&W
+![Figure 5. AI-assisted colorized frame using GPT-Image-2.](static/Images/5.jpg)
 
-![5](/static/Images/5.jpg)
-
-Figure 5: After using the AI model (Image 2.0) Color
+**Figure 5.** AI-assisted colorized frame using GPT-Image-2.
 
 ## Project Context
 
