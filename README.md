@@ -396,3 +396,20 @@ Wang, Haoran. 8.75mm AI-Assisted Film Restoration Workflow. GitHub repository, 2
 ## Disclaimer
 
 This project is experimental. The generated images and videos are not preservation masters. They are research and access copies produced through AI-assisted image processing. All original scans and source materials should be preserved separately and clearly distinguished from AI-generated derivatives.
+## Limitations
+
+## Video Demonstration
+
+<video src="Static/Videos/comparison_10s_colorized.mp4" controls width="800">
+  Your browser does not support the video tag.
+</video>
+
+**Video 1.** Side-by-side comparison between the original 8.75mm source scan and the AI-assisted colorized version generated with GPT-Image-2. Source: author’s 8.75mm AI-assisted restoration workflow, 2026.
+
+One important limitation of this workflow is that the original scan was not fully consistent in exposure and image stability. Some frames are brighter or darker than others before AI processing. This means that the inconsistency visible in the final result is not caused only by the AI model. It may also come from the source scan, the original film condition, frame instability, and uneven exposure during digitization.
+
+Because GPT-Image-2 processes each frame as an individual image, these source-level differences can become more visible after restoration or colorization. For example, if one frame is darker than the next frame, the model may apply slightly different color, contrast, or texture decisions. This can create flicker, color drift, or small changes in visual continuity.
+
+For this reason, future versions of the workflow should include a pre-processing stage before AI editing. Possible steps include exposure normalization, deflicker, stabilization, and basic color or contrast balancing. These steps may help the AI model receive a more consistent image sequence and reduce frame-to-frame variation.
+
+This limitation is also important for archival interpretation. The AI result should not be read as a clean recovery of the original film image. It is shaped by the condition of the scan, the instability of the source material, and the model’s frame-by-frame decisions. Therefore, the AI-processed video should remain clearly labeled as an experimental access copy rather than a preservation master.
