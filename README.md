@@ -396,13 +396,12 @@ Wang, Haoran. 8.75mm AI-Assisted Film Restoration Workflow. GitHub repository, 2
 ## Disclaimer
 
 This project is experimental. The generated images and videos are not preservation masters. They are research and access copies produced through AI-assisted image processing. All original scans and source materials should be preserved separately and clearly distinguished from AI-generated derivatives.
+
 ## Limitations
 
 ## Video Demonstration
 
-[▶ Watch Video 1 on YouTube]([https://youtu.be/MKyIFCLnVzk](https://www.youtube.com/watch?v=MKyiFCLnVzk))
-
-**Video 1.** Side-by-side comparison between the original 8.75mm source scan and the AI-assisted colorized version generated with GPT-Image-2. Source: author’s 8.75mm AI-assisted restoration workflow, 2026.
+[▶ Video 1: Side-by-side comparison on YouTube](https://youtu.be/MKyIFCLnVzk)
 
 **Video 1.** Side-by-side comparison between the original 8.75mm source scan and the AI-assisted colorized version generated with GPT-Image-2. Source: author’s 8.75mm AI-assisted restoration workflow, 2026.
 
