@@ -401,7 +401,7 @@ This project is experimental. The generated images and videos are not preservati
 
 ## Video Demonstration
 
-[▶ Video 1: Side-by-side comparison on YouTube]([https://youtu.be/MKyIFCLnVzk](https://youtu.be/MKyiFCLnVzk))
+[▶ Watch Video 1 on YouTube](https://youtu.be/MKyiFCLnVzk)
 
 **Video 1.** Side-by-side comparison between the original 8.75mm source scan and the AI-assisted colorized version generated with GPT-Image-2. Source: author’s 8.75mm AI-assisted restoration workflow, 2026.
 
